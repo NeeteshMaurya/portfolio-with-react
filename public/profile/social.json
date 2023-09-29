@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/neetesh-maurya-18b030159/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/NeeteshMaurya"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:neetesh00798@gmail.com"
+        }
+    ]
+}

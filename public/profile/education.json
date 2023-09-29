@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "July 2016 - Oct 2020",
+            "cardTitle": "B.Tech, Electronics Engineering",
+            "cardSubtitle":"Rajkiya Engineering College Sonbhadra",
+            "cardDetailedText": "CGPA - 7.9",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "July 2012 - May 2013",
+            "cardTitle": "High School",
+            "cardSubtitle":"A.B.V.M Inter College, Badshahpur Jaunpur, UP",
+            "cardDetailedText": "Marks - 84%",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        }
+    ]
+}

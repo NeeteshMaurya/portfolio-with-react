@@ -1,0 +1,22 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "subtitle": "Devgenesis",
+            "workType": "Full-time",
+            "workDescription": [
+                "Worked on Smart contracts,Node js Projects, React js Projects and React Native Projects"
+            ],
+            "dateText": "03/2021 – 10/2021"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Devgenesis",
+            "workType": "Full-time",
+            "workDescription": [
+                "Worked on Smart contracts,Node js Projects, React js Projects and React Native Projects"
+            ],
+            "dateText": "11/2022 – Present"
+        }
+    ]
+}

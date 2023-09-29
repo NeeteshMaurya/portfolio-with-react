@@ -1,0 +1,75 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/news.png",
+            "title": "Daily Globe App",
+            "bodyText": "- Daily Globe App made in React Native.\n - It provide news in category such as Entertainment,Sports,Health.\n There is sharing feature implemented in this app. ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NeeteshMaurya/News-App-React-Native.git"
+                },
+                {
+                    "text": "Apk Link",
+                    "href": "https://drive.google.com/file/d/1URHkjht7_44ygL4SI1ltIggJzJFCju6j/view?usp=sharing"
+                }
+            ],
+            "tags" : [
+                "React Native",
+                "Expo",
+                "Mobile App",
+                "JavaScript",
+                "Axios Api"
+            ]
+        },
+        {
+            "image" : "images/projects/weather.png",
+            "title": "Weather App",
+            "bodyText": "- A app which provide weather details according to your enterd Location.\n - The Funny part of this app is it changes background automatically according to weather",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NeeteshMaurya/react-native-weather-app.git"
+                },
+                {
+                    "text": "Apk Link",
+                    "href": "https://drive.google.com/file/d/1UQqwoMFpqcBOtOmIPfKJjoJwftezgsGO/view?usp=sharing"
+                }
+            ],
+            "tags" : [
+                "React Native",
+                "Material UI",
+                "CSS",
+                "Expo",
+                "JavaScript",
+                "Axios Api",
+                "Mobile App"
+            ]
+        },
+        {
+            "image" : "images/projects/blog.png",
+            "title": "Blogging Website",
+            "bodyText": "- A Blogging website base on MERN Stack.\n - There is Login Feature in this website.\n - You can read and write blog after login, There is a text editor also available in this website",
+            "links": [
+                {
+                    "text": "GitHub Frontend",
+                    "href": "https://github.com/NeeteshMaurya/blog-app-front.git"
+                },
+                {
+                    "text": "GitHub Backend",
+                    "href": "https://github.com/NeeteshMaurya/blog-app-back.git"
+                }
+            ],
+            "tags" : [
+                "React js",
+                "Node js",
+                "Mongodb",
+                "Express",
+                "Axios Api",
+                "JavaScript"
+            ]
+        }
+        
+        
+    ]
+}
