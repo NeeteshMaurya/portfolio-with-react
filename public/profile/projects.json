@@ -47,9 +47,24 @@
             ]
         },
         {
+            "image" : "images/projects/dex.png",
+            "title": "Decentralize Exchange Website",
+            "bodyText": "- It is a decentralized crypto exchange.\n - It is fully responsive website.\n - I used React js,Blockchain smart contract, chatgpt model to make it.\n - When you will go for exchange any token then chatgpt model will ask you few question then you can complete your purchase.",
+            
+            "tags" : [
+                "React Js",
+                "Smart Contract",
+                "Blockchain Integration",
+                "ChatGPT Model",
+                "JavaScript",
+                "Axios Api",
+                "Crypto Exchange"
+            ]
+        },
+        {
             "image" : "images/projects/blog.png",
             "title": "Blogging Website",
-            "bodyText": "- A Blogging website base on MERN Stack.\n - There is Login Feature in this website.\n - You can read and write blog after login, There is a text editor also available in this website",
+            "bodyText": "- A Blogging website made on MERN Stack.\n - There is Login Feature in this website.\n - You can read and write blog after login, There is a text editor also available in this website",
             "links": [
                 {
                     "text": "GitHub Frontend",
